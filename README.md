@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dagistankaradeniz/springbootdocker.svg?branch=master)](https://travis-ci.org/dagistankaradeniz/springbootdocker)
+
 # Run Steps
 
 This is a [Spring Boot](https://projects.spring.io/spring-boot/) application with including DockerImage file to run your app inside [Docker](https://www.docker.com/) container.
